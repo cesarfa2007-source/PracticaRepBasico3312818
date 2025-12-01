@@ -1,0 +1,10 @@
+h1{
+width: 100%;
+height: auto;
+font-family: fantasy;
+border: solid 1px black;
+}
+
+p{
+    color: blue;
+}
