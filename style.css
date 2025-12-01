@@ -3,8 +3,34 @@ width: 100%;
 height: auto;
 font-family: fantasy;
 border: solid 1px black;
+text-align: center;
+background-color: thistle;
 }
 
 p{
-    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+img{
+    width: 50%;
+    height: auto;
+}
+
+section {
+    border: solid 2px black;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    background-color: lavender;
+    display: flex;
+    justify-content: space-around;
+}
+
+.saberMas {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
 }
